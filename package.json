@@ -1,0 +1,34 @@
+{
+    "name": "cursor-dark-theme-by-yam",
+    "displayName": "Cursor Dark Theme by Yam",
+    "description": "Exact Cursor Dark theme for VS Code - Match the beautiful Cursor IDE dark theme",
+    "version": "1.0.1",
+    "publisher": "Yam",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "cursor",
+        "dark theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cursor Dark Theme by Yam",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cursor-dark.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/cursor-dark-vscode-theme"
+    },
+    "license": "MIT"
+}
+
