@@ -2,6 +2,8 @@
 
 Exact replica of the Cursor Dark theme for Visual Studio Code.
 
+**Repository:** https://github.com/MaheshPokale99/cursor-dark-vscode-theme
+
 ## Features
 
 - Beautiful dark color scheme matching Cursor IDE
