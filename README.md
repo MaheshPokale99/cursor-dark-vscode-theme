@@ -18,7 +18,7 @@ Exact replica of the Cursor Dark theme for Visual Studio Code.
 
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "Cursor Dark"
+3. Search for "Cursor Dark Theme by Yam"
 4. Click Install
 
 ## Usage
